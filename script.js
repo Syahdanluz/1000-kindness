@@ -114,7 +114,11 @@ const ideas = [
     "Send a surprise delivery of snacks to a friend’s home.",
     "Help a friend organize their digital files or emails.",
     "Promote a friend’s blog or YouTube channel.",
-    "Share your favorite productivity app with your classmates."
+    "Share your favorite productivity app with your classmates.",
+    'Share job openings within your local community.',
+    'Donate stationery supplies to underfunded schools.',
+    'Gift a small shopping voucher to someone in need.'
+
 ];
 
 document.getElementById('generate-btn').addEventListener('click', function() {
